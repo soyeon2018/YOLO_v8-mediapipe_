@@ -4,5 +4,5 @@
 
 ## 발표자료
 <p align="center">
-  <img src="[엄마이거뭐야 수정.pdf](https://github.com/soyeon2018/YOLO_v8-mediapipe_/files/14976919/default.pdf)">
+  <img src="https://github.com/soyeon2018/YOLO_v8-mediapipe_/files/14976919/default.pdf">
 </p>
